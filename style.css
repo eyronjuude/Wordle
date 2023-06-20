@@ -1,0 +1,58 @@
+.correct {
+  border: 1px solid black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  text-align: center;
+  line-height: 40px;
+  vertical-align: middle;
+  color: green;
+  }
+  
+.misplaced {
+  border: 1px solid black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  text-align: center;
+  line-height: 40px;
+  vertical-align: middle;
+  color: darkgoldenrod;
+}
+
+.default {
+  border: 1px solid black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  text-align: center;
+  line-height: 40px;
+  vertical-align: middle;
+}
+
+.azblock {
+  border: 1px solid black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  text-align: center;
+  line-height: 40px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.azbar {
+  position: fixed;
+  bottom: 10px;
+}
+
+.wrong {
+  border: 1px solid black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  text-align: center;
+  line-height: 40px;
+  vertical-align: middle;
+  color: red;
+}
